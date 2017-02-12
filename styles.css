@@ -35,7 +35,7 @@ div.background {
 
 div.transbox {
   margin: 30px;
-  background-color: #ffffff;
+  background-color: #182edb;
   border: 1px solid black;
   opacity: 0.6;
   filter: alpha(opacity=60); /* For IE8 and earlier */
@@ -51,7 +51,7 @@ div.transbox p {
 
 
 h1 {
-	color: #182edb;
+	color: #ffffff;
 }
 p {
 	color: #ffffff;
