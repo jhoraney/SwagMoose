@@ -29,8 +29,8 @@ body {
 }
 
 div.background {
-  background: url(corn.jpg) repeat;
   border: 2px solid black;
+  background-repeat: no-repeat;
 }
 
 div.transbox {
