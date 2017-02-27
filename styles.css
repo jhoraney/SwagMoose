@@ -15,11 +15,11 @@
 		text-decoration: none;
 		font-weight: bold;
 	        font-size: 18px;
-		color: #069; }
+		color: #ffffff; }
 
 #nav li a:hover {
-		color: #c00;
-		background-color: #fff; }
+		color: #454545;
+		background-color: #999999; }
 
 ul {
 	list-style-type: none;
