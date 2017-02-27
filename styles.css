@@ -27,6 +27,7 @@ table {
 }
 body {
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 div.background {
