@@ -1,7 +1,7 @@
 ul {
 	list-style-type: none;
 	margin: 0;
-	padding: 200px;
+	padding: 0;
 	overflow: hidden;
 	background-color: #333;
 }
@@ -14,8 +14,8 @@ li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 200px 200px;
-	width: 300px;
+	padding: 14px 16px;
+	width: 100px;
 	text-decoration: none;
 }
 
