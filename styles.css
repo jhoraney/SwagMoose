@@ -17,9 +17,7 @@
 	        font-size: 18px;
 		color: #069; }
 
-dropdown {
-    position: relative;
-    display: inline-block;
+
 
 #nav li a:hover {
 		color: #c00;
